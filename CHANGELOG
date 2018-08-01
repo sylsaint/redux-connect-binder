@@ -1,0 +1,8 @@
+2018-07-28 limerary <limerary@hotmail.com>
+
+	* index.js: Add new functions
+
+2018-07-31 limerary <limerary@hotmail.com>
+
+	* index.js: Add babel transpile and mocha tests
+	* README.md: Update readme 
